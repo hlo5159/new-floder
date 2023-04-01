@@ -1,0 +1,67 @@
+ h1{
+    color: coral;
+    text-align: center;
+    
+}
+
+h1{
+    font-style: normal;
+   
+}
+div{
+    text-align: center;
+    color: rgb(17, 0, 255);
+    font-style: normal;
+    
+   
+}
+nav a{
+    text-decoration: none;
+    color: white;
+   text-align: center;
+    padding: 20px;
+    float: left;
+
+}
+nav{
+    background-color: goldenrod;
+   overflow: hidden;
+}
+nav a:hover{
+    color: brown;
+}
+nav a:visited{
+    color: royalblue;
+}
+
+.hlo{
+    background-color: rgb(255, 238, 0);
+    height: 100px;
+    width: 100%;
+   font-style: normal;
+    color: black;
+    float: left;
+    overflow: hidden;
+}
+.hlo{
+    margin: 20px;
+}
+h3{
+    color: chocolate;
+    text-decoration: none;
+    background-color: rgb(166, 255, 2);
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.long{
+    text-align: center;
+    background-color: brown;
+    width: 100%;
+    height: 50px;
+    margin: 15px;
+
+}
+
